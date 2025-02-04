@@ -1,3 +1,13 @@
 body{
     background: #BDBDBD;
 }
+
+.Primer_texto {
+    font-size: 100px;
+}
+
+.fondo-del-tag {
+    background-image: url("../img/bg.jpg");
+    background-position: center;
+    background-size: cover;
+}
